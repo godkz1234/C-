@@ -3,15 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hammer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Hammer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knuckles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Knuckles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knuckles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Knuckles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hammer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Hammer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Knife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Program.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{646FA677-6E53-472B-AD90-32B6AFB819B4}|..\\Class5th (inheritance)\\Class5th (inheritance).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class5th (inheritance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,45 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.h",
-              "RelativeDocumentMoniker": "Program.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.h",
-              "RelativeToolTip": "Program.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Knife.h",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knife.h",
+              "RelativeDocumentMoniker": "Knife.h",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knife.h",
+              "RelativeToolTip": "Knife.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-21T12:34:48.786Z",
+              "WhenOpened": "2024-10-22T11:33:18.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class5th (inheritance)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class5th (inheritance)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class5th (inheritance)\\Source.cpp",
-              "RelativeToolTip": "..\\Class5th (inheritance)\\Source.cpp",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAcwJwAAAAAAAAAAAAAAA==",
+              "Title": "Knuckles.h",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knuckles.h",
+              "RelativeDocumentMoniker": "Knuckles.h",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knuckles.h",
+              "RelativeToolTip": "Knuckles.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T12:11:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Weapon.h",
+              "RelativeDocumentMoniker": "Weapon.h",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Weapon.h",
+              "RelativeToolTip": "Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T11:11:21.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hammer.cpp",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hammer.cpp",
+              "RelativeDocumentMoniker": "Hammer.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hammer.cpp",
+              "RelativeToolTip": "Hammer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T12:32:30.884Z",
+              "WhenOpened": "2024-10-22T12:13:25.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Hammer.h",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hammer.h",
+              "RelativeDocumentMoniker": "Hammer.h",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hammer.h",
+              "RelativeToolTip": "Hammer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T12:08:20.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Knuckles.cpp",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knuckles.cpp",
+              "RelativeDocumentMoniker": "Knuckles.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knuckles.cpp",
+              "RelativeToolTip": "Knuckles.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T12:11:28.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Weapon.cpp",
+              "RelativeDocumentMoniker": "Weapon.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Weapon.cpp",
+              "RelativeToolTip": "Weapon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T11:11:58.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-17T12:39:51.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Knife.cpp",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knife.cpp",
+              "RelativeDocumentMoniker": "Knife.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Knife.cpp",
+              "RelativeToolTip": "Knife.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T11:35:44.811Z",
               "EditorCaption": ""
             }
           ]
