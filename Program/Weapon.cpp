@@ -2,5 +2,5 @@
 
 void Weapon::Attack()
 {
-	// cout << "Weapon Attack" << endl;
+	 cout << "Weapon Attack" << endl;
 }
