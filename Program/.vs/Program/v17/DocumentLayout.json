@@ -3,27 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EECCB7C4-2738-40DF-86D4-815906D6CA3B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7048060-DE0C-46D0-B04C-6995127658C6}|..\\Class7th (Virtual Function)\\Class7th (Virtual Function).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class7th (Virtual Function)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Banana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Fruit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Fruit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Banana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,11 +20,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class8th (Abstract)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Source.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class8th (Abstract)\\Source.cpp",
+              "RelativeToolTip": "..\\Class8th (Abstract)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T12:36:07.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:31:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class7th (Virtual Function)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Virtual Function)\\Source.cpp",
@@ -45,73 +58,7 @@
               "RelativeToolTip": "..\\Class7th (Virtual Function)\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:39:46.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
-              "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
-              "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:31:57.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Banana.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.cpp",
-              "RelativeDocumentMoniker": "Banana.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.cpp",
-              "RelativeToolTip": "Banana.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:29:49.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Banana.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.h",
-              "RelativeDocumentMoniker": "Banana.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.h",
-              "RelativeToolTip": "Banana.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-24T12:28:34.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Fruit.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Fruit.cpp",
-              "RelativeDocumentMoniker": "Fruit.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Fruit.cpp",
-              "RelativeToolTip": "Fruit.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T12:26:50.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Fruit.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Fruit.h",
-              "RelativeDocumentMoniker": "Fruit.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Fruit.h",
-              "RelativeToolTip": "Fruit.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-24T12:25:06.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:39:46.774Z"
             }
           ]
         }

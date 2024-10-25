@@ -1,5 +1,4 @@
-﻿  Banana.cpp
-  Fruit.cpp
-  Program.cpp
-  코드를 생성하고 있습니다...
-  Program.vcxproj -> C:\Users\dddde\Desktop\Progaming\Program-Class-\Program\x64\Debug\Program.exe
+﻿  Program.cpp
+Program.obj : error LNK2019: "public: __cdecl Brush::Brush(void)" (??0Brush@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+Program.obj : error LNK2019: "public: __cdecl Pencil::Pencil(void)" (??0Pencil@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\dddde\Desktop\Progaming\Program-Class-\Program\x64\Debug\Program.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
