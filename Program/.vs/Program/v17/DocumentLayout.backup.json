@@ -62,8 +62,7 @@
               "RelativeToolTip": "Computer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:12:56.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:12:56.942Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "Computer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T11:32:49.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:32:49.985Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "Keyboard.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T11:16:39.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:16:39.176Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "Keyboard.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:11:19.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:11:19.436Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "Mouse.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:10:51.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:10:51.204Z"
             },
             {
               "$type": "Document",
@@ -123,9 +118,9 @@
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-28T11:09:13.897Z",
               "EditorCaption": ""
@@ -140,8 +135,7 @@
               "RelativeToolTip": "Mouse.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T11:26:59.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:26:59.112Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "Pencil.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:23:35.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:23:35.732Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "Paint.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:28:39.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:28:39.065Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "Banana.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:23:30.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:23:30.651Z"
             }
           ]
         }

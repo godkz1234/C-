@@ -9,8 +9,6 @@ private:
 	int x;
 	int y;
 
-	Vector2 operator + ();
-
 public:
 	Vector2(int x, int y)
 	{
@@ -24,6 +22,37 @@ public:
 
 	int &X() { return x; }
 	int &Y() { return y; }
+
+	Vector2 & operator + (const Vector2 & clone)
+	{
+		// 자기 자신의 x + clone에 있는 x값
+		// 자기 자신의 y + clone에 있는 y값
+
+		Vector2 vector(this->x + clone.x, this->y + clone.y);
+
+		return vector;
+
+		Vector2 & operator ++ ()
+		{
+			this->x++;
+			this->y++;
+
+			return *this;
+		}
+
+		Vector2& operator ++ (int value)
+		{
+			Vector2 clone(this->x, this->y);
+
+			this-> += 1;
+			this-> += 1;
+
+			return clone;
+
+
+		}
+
+	}
 };
 
 int main()
@@ -47,7 +76,11 @@ int main()
 	Vector2 vector1(1, 1);
 	Vector2 vector2(3, 3);
 
-	// Vector2 postion = vector1 + vector2;
+    Vector2 position = vector1 + vector2;	
+
+	cout << ++position.X << endl;
+	cout << "position X의 값 : " << position.X() << endl;
+	cout << "position Y의 값 : " << position.Y() << endl;
 
 #pragma endregion
 
