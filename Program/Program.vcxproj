@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Biccon.cpp" />
+    <ClCompile Include="Hydralisk.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Zerg.cpp" />
+    <ClCompile Include="Zergling.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Biccon.h" />
+    <ClInclude Include="Hydralisk.h" />
+    <ClInclude Include="Zerg.h" />
+    <ClInclude Include="Zergling.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
