@@ -3,50 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hydralisk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Hydralisk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Zergling.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Zergling.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Biccon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Biccon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Zerg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Zerg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93429D61-5CC2-42A1-9EB9-6A5907641D79}|..\\Class9th (Operator Overloading)\\Class9th (Operator Overloading).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class9th (Operator Overloading)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EECCB7C4-2738-40DF-86D4-815906D6CA3B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93429D61-5CC2-42A1-9EB9-6A5907641D79}|..\\Class9th (Operator Overloading)\\Class9th (Operator Overloading).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93429D61-5CC2-42A1-9EB9-6A5907641D79}|..\\Class9th (Operator Overloading)\\Class9th (Operator Overloading).vcxproj|solutionrelative:Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93429D61-5CC2-42A1-9EB9-6A5907641D79}|..\\Class9th (Operator Overloading)\\Class9th (Operator Overloading).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{93429D61-5CC2-42A1-9EB9-6A5907641D79}|..\\Class9th (Operator Overloading)\\Class9th (Operator Overloading).vcxproj|solutionrelative:Keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EECCB7C4-2738-40DF-86D4-815906D6CA3B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Pencil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EECCB7C4-2738-40DF-86D4-815906D6CA3B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|solutionrelative:Pencil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EECCB7C4-2738-40DF-86D4-815906D6CA3B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Paint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EECCB7C4-2738-40DF-86D4-815906D6CA3B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|solutionrelative:Paint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EECCB7C4-2738-40DF-86D4-815906D6CA3B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EECCB7C4-2738-40DF-86D4-815906D6CA3B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|solutionrelative:Banana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,156 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Biccon.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Biccon.h",
-              "RelativeDocumentMoniker": "Biccon.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Biccon.h",
-              "RelativeToolTip": "Biccon.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-31T12:42:06.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Hydralisk.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hydralisk.h",
-              "RelativeDocumentMoniker": "Hydralisk.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Hydralisk.h",
-              "RelativeToolTip": "Hydralisk.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-31T12:38:25.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Zergling.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Zergling.h",
-              "RelativeDocumentMoniker": "Zergling.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Zergling.h",
-              "RelativeToolTip": "Zergling.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-31T12:37:35.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Zerg.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Zerg.h",
-              "RelativeDocumentMoniker": "Zerg.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Zerg.h",
-              "RelativeToolTip": "Zerg.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-31T12:37:09.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Computer.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Computer.h",
-              "RelativeDocumentMoniker": "Computer.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Computer.h",
-              "RelativeToolTip": "Computer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-30T12:02:18.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Keyboard.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Keyboard.h",
-              "RelativeDocumentMoniker": "Keyboard.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Keyboard.h",
-              "RelativeToolTip": "Keyboard.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-30T12:02:17.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-28T11:09:13.897Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class8th (Abstract)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class8th (Abstract)\\Source.cpp",
-              "RelativeToolTip": "..\\Class8th (Abstract)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-30T12:03:40.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class9th (Operator Overloading)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class9th (Operator Overloading)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class9th (Operator Overloading)\\Source.cpp",
-              "RelativeToolTip": "..\\Class9th (Operator Overloading)\\Source.cpp",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAADQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-30T11:40:11.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Pencil.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Pencil.h",
-              "RelativeDocumentMoniker": "Pencil.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Pencil.h",
-              "RelativeToolTip": "Pencil.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:23:35.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Paint.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Paint.h",
-              "RelativeDocumentMoniker": "Paint.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Paint.h",
-              "RelativeToolTip": "Paint.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:28:39.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Banana.h",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.h",
-              "RelativeDocumentMoniker": "Banana.h",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Banana.h",
-              "RelativeToolTip": "Banana.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:23:30.651Z"
             }
           ]
         }

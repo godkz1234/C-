@@ -5,11 +5,14 @@ using namespace std;
 
 class Zerg
 {
+protected:
 	int health;
-	int intellizHealth;
-	void Recovery()
-	{
+	int initializeHealth;
 
-	}
+public:
+	virtual void Recovery();
+
+	void OnDamage(int damage);
+	int Health();
 };
 

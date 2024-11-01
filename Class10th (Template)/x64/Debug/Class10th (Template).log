@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dddde\Desktop\Progaming\Program-Class-\Class10th (Template)\Source.cpp(49,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dddde\Desktop\Progaming\Program-Class-\Class10th (Template)\Source.cpp(50,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Class10th (Template).vcxproj -> C:\Users\dddde\Desktop\Progaming\Program-Class-\Program\x64\Debug\Class10th (Template).exe
