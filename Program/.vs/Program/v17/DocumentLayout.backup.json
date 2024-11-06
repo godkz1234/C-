@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A3860F5E-EAAC-452B-A1F1-BA3686960CFC}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9B2B54-7F0C-495B-B4EA-F0E51CBE2812}|..\\Class12th (Thread)\\Class12th (Thread).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class12th (Thread)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class12th (Thread)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class12th (Thread)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Class12th (Thread)\\Source.cpp",
-              "RelativeToolTip": "..\\Class12th (Thread)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-05T11:35:52.84Z",
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\deque",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\deque",
+              "ViewState": "AgIAAEUEAAAAAAAAAAAWwFYEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T12:24:54.435Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program-Class-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-28T11:09:13.897Z",
               "EditorCaption": ""
